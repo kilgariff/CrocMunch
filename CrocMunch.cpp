@@ -606,7 +606,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
                                      0, 0, 0, 0, hWnd, NULL, hInstance,
                                      NULL);
 
-        HICON icon = LoadIcon(hInstance, MAKEINTRESOURCE(IDI_DOCUMENT));
+        HICON icon = LoadIcon(hInstance, MAKEINTRESOURCE(IDI_CROC_DOCUMENT));
         SendMessage(hWndFileImage, STM_SETIMAGE, IMAGE_ICON, (LPARAM)icon);
     }
 

@@ -2,14 +2,13 @@
 // Microsoft Visual C++ generated include file.
 // Used by CrocMunch.rc
 //
-#define IDC_MYICON                      2
-#define IDI_DOCUMENT                    5
+#define IDI_CROCMUNCH                   4
+#define IDI_CROC_DOCUMENT               5
 #define IDD_CROCMUNCH_DIALOG            102
 #define IDS_APP_TITLE                   103
 #define IDD_ABOUTBOX                    103
 #define IDM_ABOUT                       104
 #define IDM_EXIT                        105
-#define IDI_CROCMUNCH                   107
 #define IDC_CROCMUNCH                   109
 #define IDR_MAINFRAME                   128
 #define IDI_ICON1                       130
